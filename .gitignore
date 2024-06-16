@@ -22,7 +22,7 @@ package-lock.json
 /public/vendor
 /lang/vendor
 storage/*.key
-/storage/dcc-data/
+storage/dcc-data/
 /vendor
 bagisto.sql
 yarn.lock
